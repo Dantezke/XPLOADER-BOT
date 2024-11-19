@@ -20,18 +20,18 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //=================================================//
 
-global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭' 
+global.botname = process.env.BOT_NAME || 'Danny𝐁𝐨𝐭' 
 //Your desured bot name
 
 //=================================================//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254796180105'
+global.ownernumber = process.env.OWNER_NUMBER || '254115770750'
 //Type your number here
 
 //=================================================//
 
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Dantez' 
 //Type your name here
 
 //=================================================//
@@ -58,11 +58,11 @@ global.author = process.env.STICKER_AUTHOR_NAME || "Bot"
 
 //=================================================//
 
-global.creator = process.env.GL_DEVS || "254754783972@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "254115770750@s.whatsapp.net"
 
 //=================================================//
 
-global.xprefix = process.env.PREFIX || '.'
+global.xprefix = process.env.PREFIX || '™'
 //Set your desired prefix
 
 //=================================================//
@@ -76,7 +76,7 @@ global.hituet = 0
 
 //=================================================//
 
-global.autoswview = process.env.AUTO_STATUS_SEEN || false
+global.autoswview = process.env.AUTO_STATUS_SEEN || true
 //Set true to enable and false to disable auto status view
 
 //=================================================//
@@ -87,7 +87,7 @@ global.autoreact = process.env.AUTO_STATUS_REACT || true
 
 //=================================================//
 
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '🔞'
 //Set the emoji that you want to be reacted to status
 
 //=================================================//

@@ -15,7 +15,7 @@ const { color } = require('./lib/color')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //=================================================//
 
-global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER~2iQDFKhB#ZBYMR3Y5YxgBiZfYYh2UhLG_zqtIxTbqyB4tdC7hKyk'
+global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your Xploader session id here; must start with XPLOADER~
 
 //=================================================//
@@ -44,11 +44,11 @@ global.themeemoji = process.env.GL_EMOJI || '□'
 
 //=================================================//
 
-global.wm = process.env.GL_WM || "©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭"
+global.wm = process.env.GL_WM || "©DANREZ𝐁𝐨𝐭"
 
 //=================================================//
 
-global.packname = process.env.STICKER_PACK_NAME || "Xploader"
+global.packname = process.env.STICKER_PACK_NAME || "DANTEZ"
 //The sticker pack name 
 
 //=================================================//
@@ -62,7 +62,7 @@ global.creator = process.env.GL_DEVS || "254115770750@s.whatsapp.net"
 
 //=================================================//
 
-global.xprefix = process.env.PREFIX || '™'
+global.xprefix = process.env.PREFIX || '∆'
 //Set your desired prefix
 
 //=================================================//
